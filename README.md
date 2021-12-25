@@ -61,6 +61,7 @@ The dataset consists of below features:
 [Click Here]() To Check Total Work on Case Study.
 
 | Model | Accuracy Score |
+| ------------- | -------- |
 | Logistic Regression | 90.67 |
 | Naive Bayes | 96.0 | 
 | Decision Tree | 93.67 |
