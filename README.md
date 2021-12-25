@@ -58,3 +58,9 @@ The dataset consists of below features:
    [Relationship Between Different Features](https://github.com/akashbangalkar/ad_click/blob/main/Images/features.png "Relationship Between Different Features")
    
 ### Machine Learning Models
+[Click Here]() To Check Total Work on Case Study.
+
+| Model | Accuracy Score |
+| Logistic Regression | 90.67 |
+| Naive Bayes | 96.0 | 
+| Decision Tree | 93.67 |
