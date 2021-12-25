@@ -37,4 +37,24 @@ The dataset consists of below features:
 ### Exploratory Data Analysis
 
 - ##### Distribution of Data Points Among Output Classes (0 - Not clicked on Ad / 1 - Clicked on Ad)
-   ![No of Datapoints Per Class](https://github.com/akashbangalkar/quora_question_pair_simi/blob/main/Images/output_1.png "No of Datapoints Per Class") 
+   ![No of Datapoints Per Class](https://github.com/akashbangalkar/ad_click/blob/main/Images/clicked.png "No of Datapoints Per Class")
+   
+- ##### Which Age Group Is Spending Maximum Time On The Site ?
+   ![Daily Time Spend on Site](https://github.com/akashbangalkar/ad_click/blob/main/Images/age_spend_time.png "Daily Time Spend on Site")
+   
+   *From the above plot its seems that the age group of 25-40 is most active on the internet.*
+
+- ##### What Age Group Does The Dataset Majorly Consist Of ?
+   ![Age Group Majority](https://github.com/akashbangalkar/ad_click/blob/main/Images/age_majority.png "Age Group Majority")
+   
+   *Here, we can see that most of the internet users are having age in the range of 26 to 41 years.*
+   
+- ##### What Is The Income Distribution In Different Age Groups ?
+   ![Income Distribution](https://github.com/akashbangalkar/ad_click/blob/main/Images/income_dist.png "Income Distribution")
+   
+   *Here, we can see that mostly teenagers are higher earners with age group of 20-40 earning 50k-70k.*
+   
+- ##### What Is The Relationship Between Different Features ?
+   [Relationship Between Different Features](https://github.com/akashbangalkar/ad_click/blob/main/Images/features.png "Relationship Between Different Features")
+   
+### Machine Learning Models
