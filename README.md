@@ -36,3 +36,5 @@ The dataset consists of below features:
 
 ### Exploratory Data Analysis
 
+- ##### Distribution of Data Points Among Output Classes (0 - Not clicked on Ad / 1 - Clicked on Ad)
+   ![No of Datapoints Per Class](https://github.com/akashbangalkar/quora_question_pair_simi/blob/main/Images/output_1.png "No of Datapoints Per Class") 
